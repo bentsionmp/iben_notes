@@ -1,0 +1,2 @@
+[Basic & Advanced Infrastructure ](https://docs.google.com/document/d/19jlApV6CnLLvMz9zttvFjGPyB2h-xaYmZVQVlqYFaTw)                                        
+This piece will conclude all the Notes I've written on Cyber Infrastructure it is in Hebrew I'm planning on Translating it one day. 
